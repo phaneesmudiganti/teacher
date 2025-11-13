@@ -1,0 +1,21 @@
+[project]
+name = "teacher"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=5.22.0",
+    "langchain-community>=0.3.20",
+    "langchain-experimental>=0.3.4",
+    "langchain-openai>=0.3.9",
+    "langgraph>=0.3.18",
+    "langsmith>=0.3.18",
+    "openai>=1.68.2",
+    "openai-agents>=0.0.15",
+    "pypdf>=5.4.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "setuptools>=78.1.0",
+    "gtts>=2.5.4"
+]
